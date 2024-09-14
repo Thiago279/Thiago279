@@ -1,4 +1,4 @@
-## Hi there, my name is Thiago  👋
+## Hi there 👋
 
 CS student at Mackenzie University
 Interested in:
