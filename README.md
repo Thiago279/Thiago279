@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Thiago  👋
 
-My name is Thiago and I'm a CS student at Mackenzie University
+CS student at Mackenzie University
 Interested in:
 - Web development (fulll stack)
 - mobile development
