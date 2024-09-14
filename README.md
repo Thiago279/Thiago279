@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is Thiago and I'm currently a CS student at Mackenzie University
+My name is Thiago and I'm a CS student at Mackenzie University
+Interested in:
+- Web development (fulll stack)
+- mobile development
+- game development
 <!--
 **Thiago279/Thiago279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
