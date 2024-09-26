@@ -2,7 +2,7 @@
 
 CS student at Mackenzie University
 Interested in:
-- Web development (fulll stack)
+- Web development (full stack)
 - mobile development
 - game development
 <!--
