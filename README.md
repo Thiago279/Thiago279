@@ -54,6 +54,7 @@
 - A **music recommendation system** using graphs.
 - Implemented **graph algorithms** like Depth-First Search and Prim’s algorithm in Python.
 - A lot of different **Java Spring** CRUD APIs.
+- Simple blog (Angular / Typescript)
 
 ## 📈 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago279&show_icons=true&theme=dark)](https://github.com/Thiago279)
