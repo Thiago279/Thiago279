@@ -7,9 +7,9 @@
 
 
 ## 🌱 Projects:
-- Working with **Cloud Computing** and **AWS**.
 - Exploring **Java Spring** and **Design Patterns**.
-- Learning to build responsive websites with **Angular**.
+- Striving to build responsive websites with **Angular**.
+- Learning **Cloud Computing** with **AWS**.
 
 
 ### Languages:
