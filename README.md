@@ -28,8 +28,8 @@
 
 ### Databases:
 <div style="display: flex; flex-direction: row; gap: 10px;">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="Postgres">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </div>
 
