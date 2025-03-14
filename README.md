@@ -1,6 +1,7 @@
 # Thiago Shihan Cardoso Toma
 - Computer Science Student | Universidade Presbiteriana Mackenzie
-- Passionate about programming and creating impactful solutions in the world of software development.
+- Passionate about backend development with **Java Spring** 
+- Learning **Angular **and **Typescript**
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
