@@ -53,8 +53,9 @@
 - **Recicla+**, a mobile(android) app for recycling guides.
 - A **music recommendation system** using graphs.
 - Implemented **graph algorithms** like Depth-First Search and Prim’s algorithm in Python.
-- A lot of different **Java Spring** CRUD APIs.
-- Simple blog (Angular / Typescript)
+- A lot of different **Java Spring** CRUD APIs with **Swagger**.
+- Simple blog (Angular / Typescript).
+- Database (Postgres and MySQL) modelling and implementation.
 
 ## 📈 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago279&show_icons=true&theme=dark)](https://github.com/Thiago279)
