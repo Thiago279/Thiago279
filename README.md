@@ -5,7 +5,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-t-843819346)
 
 ## 🌱 Projects:
 - Working with **Cloud Computing** and **AWS**.
@@ -48,6 +47,8 @@
 
 ## 📫 Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thiagotoma99@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-t-843819346)
 
 ## 📚 Finished projects:
 - **Recicla+**, a mobile(android) app for recycling guides.
