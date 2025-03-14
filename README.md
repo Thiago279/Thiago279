@@ -52,7 +52,6 @@
 ## 📚 Finished projects:
 - **Recicla+**, a mobile(android) app for recycling guides.
 - A **music recommendation system** using graphs.
-- Implemented **graph algorithms** like Depth-First Search and Prim’s algorithm in Python.
 - A lot of different **Java Spring** CRUD APIs with **Swagger**.
 - Simple blog (Angular / Typescript).
 - Database (Postgres and MySQL) modelling and implementation.
