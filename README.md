@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-## 🌱 Projects:
+## Actively learning:
 - Exploring **Java Spring** and **Design Patterns**.
 - Striving to build responsive websites with **Angular**.
 - Learning **Cloud Computing** with **AWS**.
@@ -50,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-t-843819346)
 
-## 📚 Finished projects:
+## 📚 Projects:
 - **Recicla+**, a mobile(android) app for recycling guides.
 - A **music recommendation system** using graphs.
 - A lot of different **Java Spring** CRUD APIs with **Swagger**.
