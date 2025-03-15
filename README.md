@@ -1,5 +1,5 @@
 # Thiago Shihan Cardoso Toma
-- Computer Science Student | Universidade Presbiteriana Mackenzie
+- Software Developer | Universidade Presbiteriana Mackenzie
 - Passionate about backend development with **Java Spring** 
 - Learning **Angular** and **Typescript**
 - Interested in competitve programming
