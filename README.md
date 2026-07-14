@@ -3,7 +3,7 @@
 - Passionate about backend development with **Java Spring** 
 - Interested in competitve programming
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ### Languages:
@@ -44,4 +44,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-t-843819346)
 
 ## 📈 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiago279&show_icons=true&theme=dark)](https://github.com/Thiago279)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Thiago279&show_icons=true&theme=dark)](https://github.com/Thiago279)
