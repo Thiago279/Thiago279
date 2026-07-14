@@ -42,6 +42,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thiagotoma99@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-t-843819346)
-
+<!--
 ## 📈 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Thiago279&show_icons=true&theme=dark)](https://github.com/Thiago279)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Thiago279&show_icons=true&theme=dark)](https://github.com/Thiago279)-->
