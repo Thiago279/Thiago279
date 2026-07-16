@@ -1,7 +1,7 @@
 # Thiago Shihan Cardoso Toma
 - Software Developer | Universidade Presbiteriana Mackenzie
 - Passionate about backend development with **Java Spring** 
-- Interested in competitve programming
+
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
