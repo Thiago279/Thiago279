@@ -1,7 +1,6 @@
 # Thiago Shihan Cardoso Toma
 - Software Developer | Universidade Presbiteriana Mackenzie
-- Passionate about backend development with **Java Spring** 
-
+- Passionate about building REST APIs, clean architecture and scalable backend applications.
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Thiago279&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
@@ -37,6 +36,41 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="Figma">
 </div>
+
+## About Me
+
+I'm a Computer Science student passionate about backend development.
+
+My main focus is building Java Spring Boot applications following good software engineering practices such as:
+
+- REST APIs
+- SOLID
+- Clean Code
+- Docker
+- PostgreSQL
+- Testing
+- Git
+
+## Featured Projects
+
+### 📅 Scheduling API
+REST API built with Spring Boot.
+
+Technologies:
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Swagger
+
+### 📚 Study Tracker
+Application for tracking study sessions.
+
+Technologies:
+- Java
+- Spring Boot
+- PostgreSQL
+
 
 ## 📫 Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thiagotoma99@gmail.com)
